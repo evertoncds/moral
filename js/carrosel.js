@@ -10,7 +10,7 @@ jQuery(document).ready(function() {
                0: { items: 1, nav: true},
                500: { items: 2, nav: false},
                600: { items: 3, nav: false},
-               1000: { items: 6, nav: true}
+               1000: { items: 4, nav: true}
           }
      });
 
